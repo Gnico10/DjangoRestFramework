@@ -1,10 +1,10 @@
 # Django RestFramework
-### Instrucciones para dar de alta servicio
+### Instrucciones para dar de alta el servicio
 
 1. Instalar dependencias
-
-pip install Django==2.2.3
 ```
+pip install Django==2.2.3
+
 pip install python==3.7
 pip install Django==2.2.3
 pip install psycopg2==2.8.3
